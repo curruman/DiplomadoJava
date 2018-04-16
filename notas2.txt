@@ -1,0 +1,6 @@
+90200100, López Diego, M, 10, 10, 100
+95424477, Galán Susana, F, 10, 9, 90.5
+30140140, Perez Pablo, M, 8, 7, 40.5
+22100100, Galindo Ana, F, 9, 6, 60
+23800800, Zapata Rosa, F, 7, 9, 70
+10101010, Alves Pele, M, 4, 3, 20.5

@@ -1,0 +1,9 @@
+95424477, Susana Galan, F, 8, 9, 75
+95425560, Diego Lopez, M, 10, 9, 75
+34123123, Sebastian Minici, M, 8, 9, 90
+12312311, Carlos Ruiz, M, 5, 9, 100
+02122122, Jose Morales, M, 1, 1, 100
+12125454, Anabel Becerra, F, 5,5,100
+111111111, Alexander Galan, M, 4,4,20
+28943147, Lennard Martin, M, 7, 9, 92.5
+28943143, Lennard Pedra, F, 7, 10, 72.5

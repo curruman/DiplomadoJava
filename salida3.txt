@@ -1,0 +1,6 @@
+10, Juan
+12, Susana
+1, Jesus
+3, Diego
+5, Luis
+GANADOR: [7] :  José

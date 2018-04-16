@@ -1,0 +1,3 @@
+marino, 110, F, sucio
+sanpedro, 200, m, limpio
+jesus, 1000, m, santo
